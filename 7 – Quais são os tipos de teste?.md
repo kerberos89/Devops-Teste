@@ -23,3 +23,5 @@ Nesse contexto existem diversas técnicas que podem ser aplicadas em diferentes 
 10. Teste de Regressão - Reteste de um sistema ou componente para verificar se alguma modificação recente causou algum efeito indesejado, além de, certificar se o sistema ainda atende os requisitos.
 
 Cada um possui características específicas, exigem habilidades dos seus operadores e buscam determinado objetivo. Se puder faça todos, mas caso contrário foque no seu cliente e suas principais necessidades. Dessa forma você nunca erra.
+
+Corrigido
