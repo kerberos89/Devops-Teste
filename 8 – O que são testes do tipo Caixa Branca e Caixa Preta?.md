@@ -24,3 +24,4 @@ Há que se destacar, contudo, que existe um elemento comum aos dois tipos de tes
 
 Teste de caixa cinza <strong>(Graybox)</strong>
 O conceito de teste de caixa cinza não é muito bem definido nem muito bem aceito por todos. Há muitos autores que dizem que o teste de caixa cinza é simplesmente o teste de integração. Há quem diga que o teste de caixa cinza é uma mistura do teste de caixa preta e teste de caixa branca, mas isso é um conceito muito vago e sem muitos argumentos plausíveis que o defendam.
+Corrigido
